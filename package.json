@@ -1,0 +1,14 @@
+{
+    "name": "my-video-chat",
+    "version": "1.0.0",
+    "description": "Simple video chat with screen sharing and whiteboard",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "socket.io": "^4.0.1"
+    }
+  }
+  
